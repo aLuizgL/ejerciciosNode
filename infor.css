@@ -117,3 +117,12 @@ button.submit:active {
     -o-transition: padding .25s;
     transition: padding .25s;
 }
+.contact_form input, .contact_form textarea {
+    padding-right:30px;
+}
+input:required, textarea:required {
+    background: #fff url(images/red_asterisk.png) no-repeat 98% center;
+}
+::-webkit-validation-bubble-message {
+    padding: 1em;
+}
