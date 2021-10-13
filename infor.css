@@ -48,7 +48,7 @@ body {font: 14px/21px "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", san
     width:150px;
     margin-top: 3px;
     display:inline-block;
-    float:left;
+    float: left;
     padding:3px;
 }
 .contact_form input {
@@ -74,7 +74,7 @@ button.submit {
     background: -webkit-linear-gradient(linear, left top, left bottom, from(#68b12f), to(#50911e));
     background: -webkit-linear-gradient(top, #68b12f, #50911e);
     background: -moz-linear-gradient(top, #68b12f, #50911e);
-    background: -ms-linear-gradient(top, #68b12f, #50911e);
+    background: -ms-border-radius(top, #68b12f, #50911e);
     background: -o-linear-gradient(top, #68b12f, #50911e);
     background: linear-gradient(top, #68b12f, #50911e);
     border: 1px solid #509111;
